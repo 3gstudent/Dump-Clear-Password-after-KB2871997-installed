@@ -2,6 +2,10 @@
 
 Auto start Wdigest Auth,Lock Screen,Detect User Logon and get clear password.
 
+Base on:
+
+https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1
+
 Author: 3gstudent
 
 ##Usage:
