@@ -2,13 +2,11 @@
 
 Auto start Wdigest Auth,Lock Screen,Detect User Logon and get clear password.
 
+Author: 3gstudent
+
 ##Usage:
 
 PowerShell.exe -ExecutionPolicy Bypass -File dump.ps1
-
----
-
-###Author: 3gstudent
 
 ##Update:
 
