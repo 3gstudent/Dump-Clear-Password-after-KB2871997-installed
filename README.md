@@ -11,6 +11,6 @@ PowerShell.exe -ExecutionPolicy Bypass -File dump.ps1
 ###Add the following Function:
 
 - Set the regedit value to 1
-- LockScreen
-- Detect User Logon
-- Get clear password and save
+- Auto LockScreen
+- Auto Detect User Logon
+- Auto Get clear password and save
