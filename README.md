@@ -6,9 +6,10 @@ PowerShell.exe -ExecutionPolicy Bypass -File dump.ps1
 
 ###Author: 3gstudent
 
-#Update:
+##Update:
 
-- Add the following Function:
+###Add the following Function:
+
 - Set the regedit value to 1
 - LockScreen
 - Detect User Logon
