@@ -19,4 +19,4 @@ PowerShell.exe -ExecutionPolicy Bypass -File dump.ps1
 - Set the regedit value to 1 and start Wdigest Auth
 - Auto Lock Screen
 - Auto Detect User Logon
-- Auto Get clear password and save
+- Auto Get clear-text password and save
