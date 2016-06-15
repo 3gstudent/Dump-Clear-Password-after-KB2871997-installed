@@ -1,4 +1,4 @@
-# Dump-Clear-Password-after-KB2871997-installed
+# Dump-Clear-Text-Password-after-KB2871997-installed
 
 Auto start Wdigest Auth,Lock Screen,Detect User Logon and get clear password.
 
