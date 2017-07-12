@@ -8,13 +8,13 @@ https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-M
 
 Author: 3gstudent
 
-##Usage:
+## Usage:
 
 PowerShell.exe -ExecutionPolicy Bypass -File dump.ps1
 
-##Update:
+## Update:
 
-###Add the following Function:
+### Add the following Function:
 
 - Set the regedit value to 1 and start Wdigest Auth
 - Auto Lock Screen
