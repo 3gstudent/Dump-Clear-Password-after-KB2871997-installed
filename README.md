@@ -20,3 +20,7 @@ PowerShell.exe -ExecutionPolicy Bypass -File dump.ps1
 - Auto Lock Screen
 - Auto Detect User Logon
 - Auto Get clear-text password and save
+
+Details：
+
+《域渗透——Dump Clear-Text Password after KB2871997 installed》
